@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manideep Singh</h1>
 <h3 align="center">A passionate Android App Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manideep-01&label=Profile%20views&color=0e75b6&style=flat" alt="manideep-01" /> </p>
 
 - 🌱 I’m currently learning **DSA**
@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manideep-01&show_icons=true&locale=en&layout=compact" alt="manideep-01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manideep-01&show_icons=true&locale=en" alt="manideep-01" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manideep-01&show_icons=true&locale=en" alt="manideep-01" /></p>
